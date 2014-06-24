@@ -27,7 +27,7 @@ namespace WFP1
 
         private void Button1_Click(object sender, RoutedEventArgs e)
         {
-            TextBox1.Text = "button clicked!";
+            TextBox1.Text = "button clicked";
         }
     }
 }
